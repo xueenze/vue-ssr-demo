@@ -4,7 +4,7 @@
 - 中/英文切换页面文案
 - 基于BootStrap的响应式页面，适配不同的移动端
 
-### [线上访问的地址(基于腾讯云)](http://www.kameleonx.cn:8889/vuessr)
+### [线上访问的地址](http://www.kameleonx.cn:8889/vuessr)
 
 <img src="https://vue-ssr-1251340574.cos.ap-chengdu.myqcloud.com/demo.gif" width = "750" height = "400"/>
 
@@ -57,7 +57,9 @@ npm run test
 `test`: Jest测试用例存放目录，功能测试用例Excel存放路径
 
 ## Tips
+```diff
 + 时间的缘故，想做的优化还是有很多 :blush:
+```
 
 1. `Jest测试用例的补充`，这里的Jest写的测试用例比较简单，对于所有页面以及组件只是判断其是否能够成功渲染，代码覆盖率并没有都达到100%
 2. `Benchmark 基准测试的补充`
