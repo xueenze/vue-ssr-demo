@@ -1,0 +1,33 @@
+{
+    "companyName": "猫头鹰的巢",
+    "copy1": "用 ",
+    "copy2": " 制造",
+    "copy3": "© 2019 版权所有 猫头鹰的巢",
+    "title1": "用更好的方式",
+    "title2": "去享受每一天",
+    "subTitle": "邀请您优先体验我们的服务",
+    "requestButton": "注册邮箱",
+    "loadingButton": "验证中，请稍后...",
+    "registerSuccess": "注册成功！",
+    "registerFail": "注册失败",
+    "registerSubmit": "提交成功，请稍后...",
+    "notFound": "404 无此页面",
+    "registerDialog": {
+        "title": "注册邮箱",
+        "namePlaceHolder": "如何称呼您",
+        "emailPlaceHolder": "邮箱",
+        "emailConfirmPlaceHolder": "邮箱确认",
+        "sendButton": "发送",
+        "nameValidateEmpty": "请输入名称",
+        "emailValidateEmpty": "请输入邮箱",
+        "emailConfirmValidateEmpty": "请确认邮箱",
+        "emailFormatValidate": "邮箱格式错误",
+        "emailRepeatValidate": "邮箱内容两次输入不一致"
+    },
+    "successDialog": {
+        "title": "注册成功！",
+        "info1": "「猫头鹰的巢」成立后",
+        "info2": "您将优先体验我们的服务",
+        "okButton": "好的"
+    }
+}

@@ -1,0 +1,37 @@
+@import './animate.less';
+
+body{
+    font-family: sans-serif;
+    color: #777777;
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td { 
+    margin:0; padding:0;
+}
+
+ol,ul,li { 
+    list-style:none;
+}
+
+.rel {
+    position: relative;
+}
+
+.abs {
+    position: absolute;
+}
+
+.fix {
+    position: fixed;
+}
+
+.mask{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    z-index: 999;
+    overflow: auto;
+  }

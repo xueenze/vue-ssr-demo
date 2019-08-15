@@ -1,0 +1,29 @@
+{
+    "presets": [
+        [
+            "env",
+            {
+                "modules": false
+            }
+        ]
+    ],
+    "env": {
+        "test": {
+            "presets": [
+                [
+                    "env", 
+                    { 
+                        "targets": { 
+                            "node": "current" 
+                        } 
+                    }
+                ]
+            ]
+        }
+    },
+    "plugins": [
+        "syntax-dynamic-import",
+        "transform-runtime",
+        "transform-object-rest-spread"
+    ]
+}

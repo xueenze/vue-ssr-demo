@@ -1,0 +1,33 @@
+{
+    "companyName": "BROCCOLI & CO",
+    "copy1": "Made with ",
+    "copy2": " in Melbourne.",
+    "copy3": "© 2019 Broccoli & Co. All rights reserved",
+    "title1": "A better way",
+    "title2": "to enjoy every day",
+    "subTitle": "Be the first to know we launch",
+    "requestButton": "Request an invite",
+    "loadingButton": "verifring, please wait...",
+    "registerSuccess": "Register Success!",
+    "registerFail": "Register Fail",
+    "registerSubmit": "Submit Success, please wait...",
+    "notFound": "404 Not Found",
+    "registerDialog": {
+        "title": "Request an invite",
+        "namePlaceHolder": "Full name",
+        "emailPlaceHolder": "Email",
+        "emailConfirmPlaceHolder": "Confirm email",
+        "sendButton": "send",
+        "nameValidateEmpty": "name required",
+        "emailValidateEmpty": "email required",
+        "emailConfirmValidateEmpty": "confirm email required",
+        "emailFormatValidate": "email format incorrect",
+        "emailRepeatValidate": "email repeat wrong"
+    },
+    "successDialog": {
+        "title": "All done!",
+        "info1": "You will be one of the first to experience",
+        "info2": "Broccoli & Co . when we launch",
+        "okButton": "ok"
+    }
+}
