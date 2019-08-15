@@ -40,7 +40,7 @@ npm run start
 npm run test
 
 # 执行lint代码检查
-npm run test
+npm run lint
 ```
 
 ## 工程目录结构
